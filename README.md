@@ -14,6 +14,6 @@ Follow these instructions to compile and run the project:
 
 2. **Run the Game**:
    ```
-   Python3 game-of-life.py
+   python3 game-of-life.py
    ```
 
